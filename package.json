@@ -1,0 +1,25 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "Ecommerce",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "express": "^4.17.1",
+    "react-bootstrap": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahulSindwani1/Ecommerce.git"
+  },
+  "author": "Rahul Sindwani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahulSindwani1/Ecommerce/issues"
+  },
+  "homepage": "https://github.com/RahulSindwani1/Ecommerce#readme"
+}
