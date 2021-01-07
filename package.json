@@ -5,12 +5,11 @@
   "main": "index.js",
   "dependencies": {
     "bootstrap": "^4.5.3",
-    "express": "^4.17.1",
     "react-bootstrap": "^1.4.0"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node backend/server"
+    "start": "node backend/server "
   },
   "repository": {
     "type": "git",
